@@ -217,4 +217,23 @@ sections:
       opacity: 100
       type: ImageBlock
     type: CtaSection
+  - elementId: ''
+    colors: colors-a
+    width: wide
+    height: tall
+    topGap: medium
+    bottomGap: medium
+    contentWidth: large
+    contentAlignHoriz: left
+    contentAlignVert: middle
+    textAlign: left
+    variant: variant-c
+    badge:
+      elementId: ''
+      label: ''
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    people: []
+    type: FeaturedPeopleSection
 ---
